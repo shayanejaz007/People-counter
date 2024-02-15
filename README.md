@@ -1,0 +1,3 @@
+Download the models
+MobileNetSSD_deploy.prototxt AND
+MobileNetSSD_deploy.caffemodel
